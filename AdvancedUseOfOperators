@@ -16,3 +16,6 @@ var result1 = test1 == 0
 var result2 = test2 == 0
 console.log("Is", num1, "an even number?", result1)
 console.log("Is", num2, "an even number?", result2)
+
+//Add numbers using the + operator
+console.log(5 + 10)
