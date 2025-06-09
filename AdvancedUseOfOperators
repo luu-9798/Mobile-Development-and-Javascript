@@ -19,3 +19,9 @@ console.log("Is", num2, "an even number?", result2)
 
 //Add numbers using the + operator
 console.log(5 + 10)
+
+//Concatenate numbers and strings using the + operator
+var now = "Now in "
+var three = 3
+var d = "D!"
+console.log(now + three + d)
