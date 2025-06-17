@@ -15,3 +15,14 @@ for (let i = 5; i >= 0; --i) {
         console.log('Countdown finished!')
     }
 }
+
+//While loop
+let i = 0;
+while (i <= 5) {
+    if (i < 5) {
+        console.log(i+1)
+    } else {
+        console.log('Counting completed!')
+    }
+    ++i;
+}
