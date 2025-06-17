@@ -36,3 +36,9 @@ while (i > 0) {
     }
     --i;
 }
+
+//While loop year
+while (i < 5) {
+    console.log(2018+i)
+    ++i
+}
