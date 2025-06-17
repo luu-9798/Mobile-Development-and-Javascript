@@ -26,3 +26,13 @@ while (i <= 5) {
     }
     ++i;
 }
+
+//While loop reverse
+while (i > 0) {
+    if (i > 1) {
+        console.log(i-1)
+    } else {
+        console.log('Countdown finished!')
+    }
+    --i;
+}
