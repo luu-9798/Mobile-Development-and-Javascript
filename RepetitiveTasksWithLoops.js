@@ -6,3 +6,12 @@ for (let i = 0; i <= 5; ++i) {
         console.log('Counting completed!')
     }
 }
+
+//For loop reverse
+for (let i = 5; i >= 0; --i) {
+    if (i > 0) {
+        console.log(i)
+    } else {
+        console.log('Countdown finished!')
+    }
+}
